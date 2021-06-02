@@ -1,0 +1,32 @@
+{
+  "ilac": {
+    "id": 1,
+    "title": "AFK Multi-Fish Omega Balık Yağı 1000 mg 60 Kapsül",
+    "id": 2,
+    "title": "Eurho Vital Fish Oil Omega-3 30 Çiğnenebilir Kapsül",
+    "id": 3,
+    "title": "Nutraxin Multivitamin Complex Women'S 60 Tablet",
+    "id": 4,
+    "title": "Ligone Milk Thistle Komplex 60 Kapsül",
+    "id": 5,
+    "title": "Strepsils Sugar Free Çilekli 16 Pastil",
+    "id": 6,
+    "title": "Solgar Vitamin E 268 mg (400 IU) 50 Yumuşak Kapsül",
+    "id": 7,
+    "title": "Strepsils Menthol Sore Throat Blocked Nose 24 Pastil",
+    "id": 8,
+    "title": "Forthe Ester-C 500 mg 60 Kapsül",
+    "id": 9,
+    "title": "Sambuwell Elderberry Efervesan Tablet Karamürver, Vitamin C, Ekinezya Ve Çinko İçeren Takviye Edici Gıda 15 Tablet",
+    "id": 10,
+    "title": "Sebamed Intim Likit 200mL - Sebamed Genital Bölge Için Temizleme Jeli 200 mL",
+    "id": 11,
+    "title": "Imumax Boğaz Spreyi 30ml Şişe",
+    "id": 12,
+    "title": "Ligone 30 Kapsül Beta Glukan, Multivitaminler, Mineraller İçeren Takviye Edici Gıda",
+  },
+  "Comment": {
+    "body": "string",
+    "post": "Post"
+  }
+}
