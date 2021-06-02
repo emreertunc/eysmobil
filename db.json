@@ -1,5 +1,5 @@
 {
-  "ilac": {
+  "ilac": [{
     "id": 1,
     "title": "AFK Multi-Fish Omega Balık Yağı 1000 mg 60 Kapsül",
     "id": 2,
@@ -24,9 +24,8 @@
     "title": "Imumax Boğaz Spreyi 30ml Şişe",
     "id": 12,
     "title": "Ligone 30 Kapsül Beta Glukan, Multivitaminler, Mineraller İçeren Takviye Edici Gıda",
-  },
-  "Comment": {
-    "body": "string",
-    "post": "Post"
+  }],
+  "profile": {
+    "name": "Profile 1"
   }
 }
